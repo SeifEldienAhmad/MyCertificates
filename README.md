@@ -27,11 +27,13 @@ Each certificate entry typically includes:
 ## 📈 Certificates Included
 
 - **Introduction to Cybersecurity** — Cisco Networking Academy  
-- **Soft Skills Development** — Enactus Fayoum  
+- **Soft Skills Development** — Enactus Fayoum
+- **Networking Basics** — Cisco Networking Academy
 
 ---
 
 ## 📬 Contact
+- **My Account on creedly** - https://www.credly.com/users/seif-eldien-ahmad-mohammad/
 
 For questions or verification, feel free to contact me through my GitHub profile or email.
 

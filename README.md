@@ -29,6 +29,7 @@ Each certificate entry typically includes:
 - **Introduction to Cybersecurity** — Cisco Networking Academy  
 - **Soft Skills Development** — Enactus Fayoum
 - **Networking Basics** — Cisco Networking Academy
+- **Scientific Research** - URI Organization
 
 ---
 

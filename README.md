@@ -30,6 +30,7 @@ Each certificate entry typically includes:
 - **Soft Skills Development** — Enactus Fayoum
 - **Networking Basics** — Cisco Networking Academy
 - **Scientific Research** - URI Organization
+- **The cyber killchain** - Cybrary
 
 ---
 

@@ -38,7 +38,7 @@ Each certificate entry typically includes:
 ## 📬 Contact
 - **My Account on creedly** - [Seif Eldien Ahmad Mohammad](https://www.credly.com/users/seif-eldien-ahmad-mohammad)
 
-For questions or verification, feel free to contact me through my GitHub profile or email.
+For questions or verification, feel free to contact me through my GitHub profile or Linkedin.
 
 ---
 
